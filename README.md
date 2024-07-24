@@ -1,4 +1,4 @@
-Password Generator
+#Password Generator
 Overview
 This project is a simple and efficient password generator designed to create strong, random passwords. It ensures that each password contains a mix of uppercase letters, lowercase letters, numbers, and symbols, making it highly secure and suitable for various applications.
 
